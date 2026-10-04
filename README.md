@@ -2,7 +2,7 @@
 
 **Software Engineering · Systems Administration · Graphic Design**
 
-I build websites, design brands, and keep systems running. I'm a Computer Science graduate from **KNRTU**, based in **Lusaka, Zambia**, and currently working as a **Graphic Designer & Web Dev at Premium Foods Manufacturing Ltd**.
+I build websites, design brands, and keep systems running. I'm a Computer Science graduate from **KNRTU** in Kazan, Russia, based in **Lusaka, Zambia**, and currently working as a **Graphic Designer & Web Dev at Premium Foods Manufacturing Ltd**.
 
 [View my portfolio](https://nate-zm.github.io/Portfolio/) · [Explore my projects](https://github.com/Nate-zm?tab=repositories)
 
