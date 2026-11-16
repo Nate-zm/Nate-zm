@@ -74,7 +74,7 @@ I'm continuing to build my knowledge of **cloud infrastructure and DevOps**, whi
 | --- | --- |
 | [Portfolio](https://github.com/Nate-zm/Portfolio) | A responsive home for my software, systems, and design work |
 | [Zamket](https://zamket.vercel.app) | An e-commerce website for browsing and shopping |
-| plenty more projects available & plenty more to be done!|
+| plenty more projects available | plenty more to be done!|
 
 ## Connect
 
