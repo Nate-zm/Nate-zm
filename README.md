@@ -2,7 +2,7 @@
 
 **Software Engineering · Systems Administration · Graphic Design**
 
-I build websites, design brands, and keep systems running. I'm a Computer Science graduate from **KNRTU**, based in **Lusaka, Zambia**, and currently working as a **Graphic Designer & Web Dev at Premium Foods Manufacturing Ltd**.
+I build websites, design brands, and keep systems running. I'm a Computer Science graduate from **Kazan National Research Technological University**, I am based in **Lusaka, Zambia**, and currently working as a **Graphic Designer & Web Dev**.
 
 [View my portfolio](https://nate-zm.github.io/Portfolio/) · [Explore my projects](https://github.com/Nate-zm?tab=repositories)
 
@@ -10,7 +10,7 @@ I build websites, design brands, and keep systems running. I'm a Computer Scienc
 
 My work connects usable interfaces, reliable systems, and clear visual communication. I develop web applications, work with servers and networks, and create graphics and brand assets.
 
-I'm continuing to build my knowledge of **cloud infrastructure and DevOps**, while bringing together Zambian engineers to share ideas and build useful things.
+I'm continuing to build my knowledge of **cloud infrastructure and DevOps**, while bringing together Zambian engineers to share ideas and build useful Solutions.
 
 ## Tech Stack
 
@@ -74,11 +74,11 @@ I'm continuing to build my knowledge of **cloud infrastructure and DevOps**, whi
 | --- | --- |
 | [Portfolio](https://github.com/Nate-zm/Portfolio) | A responsive home for my software, systems, and design work |
 | [Zamket](https://zamket.vercel.app) | An e-commerce website for browsing and shopping |
-| **Nice cream** | Graphic design for Premium Foods Manufacturing Ltd × Shoprite |
+| plenty more projects available & plenty more to be done!|
 
 ## Connect
 
-Open to internships, freelance projects, and collaboration.
+Open to freelance projects, and collaborations.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6556CE?style=for-the-badge)](https://nate-zm.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nathanael-nyirenda-5756721b7)
